@@ -56,11 +56,12 @@ cd nombreCarpeta
 
 7. Ya que agregaste tu archivo al repositorio tienes que hacer el fujo básico de Git antes de enviar los cambios al repositorio remoto almacenado en github. 
 
-    a.  Primero puedes ver en que estado estan tus archivos usando 
+    a.  Primero puedes ver en que estado estan tus archivos usando
 
-        ```bash
-        git status
-        ```
+   ```bash
+   git status
+   ```
+   
     b. Si tienes archivos en estado <font color="red">Untraked</font> o <font color="red">Modified</font> tienes que pasarlos al estado de preparación utilizando 
 
       ```bash
